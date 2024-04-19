@@ -2,199 +2,232 @@
     "doc": "Features",
     "title": "Features",
     "content": ". | Supported Media | Data | Video | Audio | Blu-ray Recording Modes | DVD Recording Modes | CD Recording Modes | Device Interfaces | Device Control | Supported Platforms . | Windows | macOS | Linux | . | . ",
-    "url": "https://primoburner.com/features/",
+    "url": "/features/",
+    
     "relUrl": "/features/"
   },"1": {
     "doc": "Features",
     "title": "Supported Media",
     "content": ". | BD-R M-DISC (The 1000 year Millenniata Blu-ray). | BD-R XL and BD-R XL Extra Large | BD-R and BD-RE | BD-R DL and BD-RE DL Dual Layer | DVD-R M-DISC (The 1000 year Millenniata DVD). | DVD+R DL and DVD-R DL Dual Layer | DVD-ROM, DVD-RW, DVD-R, DVD+RW, DVD+R, DVD-RAM | CD-ROM, CD-R, CD-RW | . ",
-    "url": "https://primoburner.com/features/#supported-media",
+    "url": "/features/#supported-media",
+    
     "relUrl": "/features/#supported-media"
   },"2": {
     "doc": "Features",
     "title": "Data",
     "content": ". | UDF CDFS (up to UDF 2.60) | ISO-9660 CDFS Level1, Level2 and unrestricted mode | Joliet CDFS | UDF/ISO-9660 Bridge | UDF/Joliet Bridge | Bootable Disc | MODE1, MODE FORM1 and MODE2 FORM2 sector CD burning | CD ripping with subchannel data | Ripping to ISO image | . ",
-    "url": "https://primoburner.com/features/#data",
+    "url": "/features/#data",
+    
     "relUrl": "/features/#data"
   },"3": {
     "doc": "Features",
     "title": "Video",
     "content": ". | DVD Video from VIDEO_TS source | Blu-ray Video from BDAV source | Blu-ray Video from BDMV source | . ",
-    "url": "https://primoburner.com/features/#video",
+    "url": "/features/#video",
+    
     "relUrl": "/features/#video"
   },"4": {
     "doc": "Features",
     "title": "Audio",
     "content": ". | Compact Disc Digital Audio (CD-DA) | CD-EXTRA / CD-PLUS. Audio and data on single CD | CD-TEXT with ISRC, UPC/EAN and Genre Information | CUE sheet burning with PRE-GAPS, POST-GAPS and INDEXES | CUE sheet burning with ISRC and UPC/MCN | Raw audio burning in DAO to support oldest MMC burners | Raw audio + sub-channel ripping / burning | Standard audio ripping | . ",
-    "url": "https://primoburner.com/features/#audio",
+    "url": "/features/#audio",
+    
     "relUrl": "/features/#audio"
   },"5": {
     "doc": "Features",
     "title": "Blu-ray Recording Modes",
     "content": ". | BD-R Sequential Recording (BD-R - POW) | BD-R Pseudo-Overwrite (BD-R + POW) | BD-RE Random Recording | . ",
-    "url": "https://primoburner.com/features/#blu-ray-recording-modes",
+    "url": "/features/#blu-ray-recording-modes",
+    
     "relUrl": "/features/#blu-ray-recording-modes"
   },"6": {
     "doc": "Features",
     "title": "DVD Recording Modes",
     "content": ". | DVD-R Disc-At-Once | DVD-R Incremental | DVD-RW Sequential | DVD-RW Restricted Overwrite | DVD+R Incremental | DVD+RW Incremental | . ",
-    "url": "https://primoburner.com/features/#dvd-recording-modes",
+    "url": "/features/#dvd-recording-modes",
+    
     "relUrl": "/features/#dvd-recording-modes"
   },"7": {
     "doc": "Features",
     "title": "CD Recording Modes",
     "content": ". | Track-At-Once (TAO) | Session-At-Once (SAO) | Packet Burning | RAW Session-At-Once (RAW SAO) | RAW Session-At-Once + SUB channels. RAW SAO with full PQ/R-W sub-channels | RAW Disc-At-Once + SUB channels. RAW DAO with full PQ/R-W sub-channels and B0 pointer for multi session | . ",
-    "url": "https://primoburner.com/features/#cd-recording-modes",
+    "url": "/features/#cd-recording-modes",
+    
     "relUrl": "/features/#cd-recording-modes"
   },"8": {
     "doc": "Features",
     "title": "Device Interfaces",
     "content": ". | EIDE | USB | FireWire (IEEE-1394) | SATA | e-SATA | . ",
-    "url": "https://primoburner.com/features/#device-interfaces",
+    "url": "/features/#device-interfaces",
+    
     "relUrl": "/features/#device-interfaces"
   },"9": {
     "doc": "Features",
     "title": "Device Control",
     "content": ". | Device Enumeration | Device Capabilities | Device Cache Information | Lock / Unlock Tray | Read / Write Speed Control | Media Information | . ",
-    "url": "https://primoburner.com/features/#device-control",
+    "url": "/features/#device-control",
+    
     "relUrl": "/features/#device-control"
   },"10": {
     "doc": "Features",
     "title": "Supported Platforms",
     "content": "Windows . | Windows 11 · 10 · Windows 8.1 · Windows 8 · Windows 7 SP1 | Windows Server 2022 · 2019 · 2016 · 2012 R2 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET CLR 4 (4.0 to 4.8) | Visual Studio 2022 · 2019 · 2017 | . macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 13 · Xcode 12 | macOS 12 (Monterey) · 11 (Big Sur) · 10.15 (Catalina) | . Linux . | 64Bit · Shared Libraries · Unicode | C++ | GCC 7+ | Ubuntu (18.04 LTS and up) · Debian (9 and up) | . ",
-    "url": "https://primoburner.com/features/#supported-platforms",
+    "url": "/features/#supported-platforms",
+    
     "relUrl": "/features/#supported-platforms"
   },"11": {
     "doc": "Download",
     "title": "Download",
     "content": " ",
-    "url": "https://primoburner.com/download/",
+    "url": "/download/",
+    
     "relUrl": "/download/"
   },"12": {
     "doc": "Download",
     "title": "Windows",
     "content": ".NET SDK . PrimoBurner.NET.4.7.3.x64.Demo.zip (64-Bit) . PrimoBurner.NET.4.7.3.x86.Demo.zip (32-Bit) . C++ SDK . PrimoBurner.4.7.3.x64.Demo.zip (64-Bit) . PrimoBurner.4.7.3.x86.Demo.zip (32-Bit) . ",
-    "url": "https://primoburner.com/download/#windows",
+    "url": "/download/#windows",
+    
     "relUrl": "/download/#windows"
   },"13": {
     "doc": "Download",
     "title": "macOS",
     "content": "C++ SDK . PrimoBurner.4.7.3.Demo.dmg (Universal Binary , 64-Bit &amp; 32-Bit) . ",
-    "url": "https://primoburner.com/download/#macos",
+    "url": "/download/#macos",
+    
     "relUrl": "/download/#macos"
   },"14": {
     "doc": "License",
     "title": "License",
     "content": ". | Commercial / Full License | Discounts . | Competitive product | Startup | Educational institution | Open source project | . | Devices / Embedded – Contact us | . ",
-    "url": "https://primoburner.com/license/",
+    "url": "/license/",
+    
     "relUrl": "/license/"
   },"15": {
     "doc": "License",
     "title": "Commercial / Full License",
     "content": "$4000 / year . This license is for established businesses and organizations: . | Fixed annual fee per product, per platform | No additional royalties | No hidden fees | . Please contact PrimoBurner Sales. ",
-    "url": "https://primoburner.com/license/#commercial--full-license",
+    "url": "/license/#commercial--full-license",
+    
     "relUrl": "/license/#commercial--full-license"
   },"16": {
     "doc": "License",
     "title": "Discounts",
     "content": "Competitive product . $3000 / year (20% OFF) . Users of commercial products competitive to PrimoBurner qualify for a 20% OFF towards standard commercial license for PrimoBurner. Please contact PrimoBurner Sales. Startup . $2000 / year (50% OFF) . This discount is available to any company that meets all the following requirements: . | Is privately held, and | Has been in business for no more than 3 years, and | Is engaged in development of a software-based product or service, and | Is an established business with a website and/or existing public references on the Internet. | . License issued for 1 year. Must apply again to renew. Please contact PrimoBurner Sales. Educational institution . FREE . Classroom licenses allow for use of the fully-functional version of PrimoBurner for educational and teaching purposes in classrooms by professors, trainers, and students. | May be provided for students and teachers to be used for classroom assistance. | Allows the software to be installed and used in on-site classrooms and labs. | Allows students and teachers to use the software on their personal PCs for educational tasks, such as preparing training materials or doing homework. | . Please contact PrimoBurner Sales. Open source project . FREE . Non-commercial Open Source projects can qualify for free license to PrimoBurner provided that they meet a set of simple criteria: . | You have to be a project lead or a regular committer. | Your OS project meets the Open Source definition. | You do not perform any paid support, consulting or training services for your OS project, and you do not distribute paid versions of your OS software. | Your OS project is in active development for a minimum of 3 months. | Your OS project’s community is active. This means that you have recent activity in your newsgroups or forums. | Your OS project has a website including either a regularly updated News section or links to social network account(s) where project updates are posted. | You release updated builds on a regular basis. | Your project license is a commercial use friendly license (i.e. not GPL, AGPL, LGPL, MPL or any other copyleft license). | . License issued for 1 year. Must apply again to renew. Please contact PrimoBurner Sales. ",
-    "url": "https://primoburner.com/license/#discounts",
+    "url": "/license/#discounts",
+    
     "relUrl": "/license/#discounts"
   },"17": {
     "doc": "License",
     "title": "Devices / Embedded – Contact us",
     "content": "Please contact PrimoBurner Sales. ",
-    "url": "https://primoburner.com/license/#devices--embedded--contact-us",
+    "url": "/license/#devices--embedded--contact-us",
+    
     "relUrl": "/license/#devices--embedded--contact-us"
   },"18": {
     "doc": "Documentation",
     "title": "Documentation",
     "content": " ",
-    "url": "https://primoburner.com/documentation/",
+    "url": "/documentation/",
+    
     "relUrl": "/documentation/"
   },"19": {
     "doc": "Documentation",
     "title": ".NET (C#) API",
     "content": "PrimoBurner for .NET . ",
-    "url": "https://primoburner.com/documentation/#net-c-api",
+    "url": "/documentation/#net-c-api",
+    
     "relUrl": "/documentation/#net-c-api"
   },"20": {
     "doc": "Documentation",
     "title": "C++ API",
     "content": "PrimoBurner Core (C++ / C) . NOTE: Both the C++ and the .NET API documentation is generated using Doxygen. ",
-    "url": "https://primoburner.com/documentation/#c-api",
+    "url": "/documentation/#c-api",
+    
     "relUrl": "/documentation/#c-api"
   },"21": {
     "doc": "Documentation",
     "title": "Wiki",
     "content": "On the PrimoBurner Wiki you will find how-to articles and code snippets about the C# and C++ SDKs. ",
-    "url": "https://primoburner.com/documentation/#wiki",
+    "url": "/documentation/#wiki",
+    
     "relUrl": "/documentation/#wiki"
   },"22": {
     "doc": "Documentation",
     "title": "Samples",
     "content": "PrimoBurner Samples is a repository of code samples on GitHub. The same code samples (pre-built) are included with the PrimoBurner packages which can be downloaded from the Download page. ",
-    "url": "https://primoburner.com/documentation/#samples",
+    "url": "/documentation/#samples",
+    
     "relUrl": "/documentation/#samples"
   },"23": {
     "doc": "Support",
     "title": "Support",
     "content": "Technical support for PrimoBurner is provided via GitHub. ",
-    "url": "https://primoburner.com/support/",
+    "url": "/support/",
+    
     "relUrl": "/support/"
   },"24": {
     "doc": "Support",
     "title": "Feature requests",
     "content": "Please create an issue on GitHub. ",
-    "url": "https://primoburner.com/support/#feature-requests",
+    "url": "/support/#feature-requests",
+    
     "relUrl": "/support/#feature-requests"
   },"25": {
     "doc": "Support",
     "title": "Report a bug",
     "content": "Please create an issue on GitHub. ",
-    "url": "https://primoburner.com/support/#report-a-bug",
+    "url": "/support/#report-a-bug",
+    
     "relUrl": "/support/#report-a-bug"
   },"26": {
     "doc": "Support",
     "title": "Contact us",
     "content": "You can always send an email to PrimoBurner Support. ",
-    "url": "https://primoburner.com/support/#contact-us",
+    "url": "/support/#contact-us",
+    
     "relUrl": "/support/#contact-us"
   },"27": {
     "doc": "Related Products",
     "title": "Related Products",
     "content": " ",
-    "url": "https://primoburner.com/related-products/",
+    "url": "/related-products/",
+    
     "relUrl": "/related-products/"
   },"28": {
     "doc": "Related Products",
     "title": "AVBlocks",
     "content": "AVBlocks is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
-    "url": "https://primoburner.com/related-products/#avblocks",
+    "url": "/related-products/#avblocks",
+    
     "relUrl": "/related-products/#avblocks"
   },"29": {
     "doc": "Related Products",
     "title": "DVDBuilder",
     "content": "DVDBuilder is a DVD authoring software development kit that uses XML for describing various DVD features like video titles, chapters, menus, subtitles and languages. ",
-    "url": "https://primoburner.com/related-products/#dvdbuilder",
+    "url": "/related-products/#dvdbuilder",
+    
     "relUrl": "/related-products/#dvdbuilder"
   },"30": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "PrimoBurner is a CD, DVD and Blu-ray burning software development kit (SDK). It is cross-platform, and offers a well-rounded and flexible API for fast and easy implementation of optical disc recording / archiving solutions. ",
-    "url": "https://primoburner.com/",
+    "url": "/",
+    
     "relUrl": "/"
   },"31": {
     "doc": "Introduction",
     "title": "Features",
     "content": ". | Widely used and mature burning engine that has been around and evolving since 2003 | Trusted by established leaders in major industries and across the world . | Burns the Millenniata BD-R M-DISC and DVD-R M-DISC that last a 1000 years | Burns High capacity Blu-ray (BD-XL) media | Burns standard Blu-ray Disc (BD-R, BD-RE, BD-R DL, BD-RE DL) | Burns Double Layer DVD media (DVD+R DL and DVD-R DL) | Burns standard DVD media (DVD-R, DVD+R, DVD-RW, DVD+R, DVD-RAM) | Burns standard CD media (CD-R and CD-RW) . | Managed API for Microsoft .NET Framework 4+ . | Native C++ UNICODE/UTF-16 API | Native 64Bit / 32Bit API . | Runs on Mac OS X 10.10 (Yosemite), 10.9 (Mavericks), 10.8 (Mountain Lion) and 10.7 (Lion) | Runs on Windows (8.1, 8, 7, Server, Embedded) | Runs on Ubuntu Linux | . ",
-    "url": "https://primoburner.com/#features",
+    "url": "/#features",
+    
     "relUrl": "/#features"
   },"32": {
     "doc": "Introduction",
     "title": "Solutions",
     "content": ". | Archive data to Blu-ray, DVD and CD | Write multiple data sessions to Blu-ray, DVD and CD | Create bootable Blu-ray, DVD and CD . | Support the latest revisions of Universal Disc Format/UDF file system | Support ISO-9660 and Joliet legacy file systems . | Create Audio CD including pure CD-DA and CD-EXTRA formats | Create Video DVD from a VIDEO_TS directory | Create Video Blu-ray from BDAV or BDMV directory | . ",
-    "url": "https://primoburner.com/#solutions",
+    "url": "/#solutions",
+    
     "relUrl": "/#solutions"
   }
 }
