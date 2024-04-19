@@ -71,31 +71,31 @@
   },"10": {
     "doc": "Features",
     "title": "Supported Platforms",
-    "content": "Windows . | Windows 11 · 10 · Windows 8.1 · Windows 8 · Windows 7 SP1 | Windows Server 2022 · 2019 · 2016 · 2012 R2 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET CLR 4 (4.0 to 4.8) | Visual Studio 2022 · 2019 · 2017 | . macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 13 · Xcode 12 | macOS 12 (Monterey) · 11 (Big Sur) · 10.15 (Catalina) | . Linux . | 64Bit · Shared Libraries · Unicode | C++ | GCC 7+ | Ubuntu (18.04 LTS and up) · Debian (9 and up) | . ",
+    "content": "Windows . | Windows 11 · 10 · Windows 8.1 · Windows 8 · Windows 7 SP1 | Windows Server 2022 · 2019 · 2016 · 2012 R2 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET CLR 4 (4.0 to 4.8) · .NET Core (6.0+) | Visual Studio 2022 · 2019 · 2017 | Intel / AMD x64 | ARM64 | . macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 15 · Xcode 14 · Clang | macOS 14 (Sonoma) · 13 (Ventura) · 12 (Monterey) · | Intel x64 | Apple Silicon ARM (arm64) | . Linux . | 64Bit · Shared Libraries · Unicode | C++ · GCC | Ubuntu (22.04 LTS and up) | Intel / AMD (amd64) | ARM64 (aarch64) | . ",
     "url": "/features/#supported-platforms",
     
     "relUrl": "/features/#supported-platforms"
   },"11": {
     "doc": "Download",
     "title": "Download",
-    "content": " ",
+    "content": ". ",
     "url": "/download/",
     
     "relUrl": "/download/"
   },"12": {
     "doc": "Download",
-    "title": "Windows",
-    "content": ".NET SDK . PrimoBurner.NET.4.7.3.x64.Demo.zip (64-Bit) . PrimoBurner.NET.4.7.3.x86.Demo.zip (32-Bit) . C++ SDK . PrimoBurner.4.7.3.x64.Demo.zip (64-Bit) . PrimoBurner.4.7.3.x86.Demo.zip (32-Bit) . ",
-    "url": "/download/#windows",
+    "title": "C++ SDK",
+    "content": "macOS (Intel, x64 / Apple Silicon arm64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . Linux (Ubuntu, amd64 / aarch4 / arm64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . Windows (x64 / ARM64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . ",
+    "url": "/download/#c-sdk",
     
-    "relUrl": "/download/#windows"
+    "relUrl": "/download/#c-sdk"
   },"13": {
     "doc": "Download",
-    "title": "macOS",
-    "content": "C++ SDK . PrimoBurner.4.7.3.Demo.dmg (Universal Binary , 64-Bit &amp; 32-Bit) . ",
-    "url": "/download/#macos",
+    "title": ".NET SDK",
+    "content": "macOS (Intel, x64 / Apple Silicon arm64, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . Linux (Ubuntu, amd64 / aarch4 / arm64, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . Windows (x64 / arm64, .NET CLR 4, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . ",
+    "url": "/download/#net-sdk",
     
-    "relUrl": "/download/#macos"
+    "relUrl": "/download/#net-sdk"
   },"14": {
     "doc": "License",
     "title": "License",
@@ -126,106 +126,127 @@
     "relUrl": "/license/#devices--embedded--contact-us"
   },"18": {
     "doc": "Documentation",
+    "title": "Docs",
+    "content": " ",
+    "url": "/documentation/#docs",
+    
+    "relUrl": "/documentation/#docs"
+  },"19": {
+    "doc": "Documentation",
+    "title": "API Reference",
+    "content": " ",
+    "url": "/documentation/#api-reference",
+    
+    "relUrl": "/documentation/#api-reference"
+  },"20": {
+    "doc": "Documentation",
+    "title": "C++",
+    "content": "PrimoBurner Core (C++ / C) . ",
+    "url": "/documentation/#c",
+    
+    "relUrl": "/documentation/#c"
+  },"21": {
+    "doc": "Documentation",
+    "title": ".NET",
+    "content": "PrimoBurner for .NET . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
+    "url": "/documentation/#net",
+    
+    "relUrl": "/documentation/#net"
+  },"22": {
+    "doc": "Documentation",
+    "title": "Samples",
+    "content": " ",
+    "url": "/documentation/#samples",
+    
+    "relUrl": "/documentation/#samples"
+  },"23": {
+    "doc": "Documentation",
+    "title": "C++",
+    "content": "PrimoBurner C++ SDK (CLI Samples) . ",
+    "url": "/documentation/#c-1",
+    
+    "relUrl": "/documentation/#c-1"
+  },"24": {
+    "doc": "Documentation",
+    "title": ".NET",
+    "content": "PrimoBurner .NET SDK (CLI Samples) . ",
+    "url": "/documentation/#net-1",
+    
+    "relUrl": "/documentation/#net-1"
+  },"25": {
+    "doc": "Documentation",
     "title": "Documentation",
     "content": " ",
     "url": "/documentation/",
     
     "relUrl": "/documentation/"
-  },"19": {
-    "doc": "Documentation",
-    "title": ".NET (C#) API",
-    "content": "PrimoBurner for .NET . ",
-    "url": "/documentation/#net-c-api",
-    
-    "relUrl": "/documentation/#net-c-api"
-  },"20": {
-    "doc": "Documentation",
-    "title": "C++ API",
-    "content": "PrimoBurner Core (C++ / C) . NOTE: Both the C++ and the .NET API documentation is generated using Doxygen. ",
-    "url": "/documentation/#c-api",
-    
-    "relUrl": "/documentation/#c-api"
-  },"21": {
-    "doc": "Documentation",
-    "title": "Wiki",
-    "content": "On the PrimoBurner Wiki you will find how-to articles and code snippets about the C# and C++ SDKs. ",
-    "url": "/documentation/#wiki",
-    
-    "relUrl": "/documentation/#wiki"
-  },"22": {
-    "doc": "Documentation",
-    "title": "Samples",
-    "content": "PrimoBurner Samples is a repository of code samples on GitHub. The same code samples (pre-built) are included with the PrimoBurner packages which can be downloaded from the Download page. ",
-    "url": "/documentation/#samples",
-    
-    "relUrl": "/documentation/#samples"
-  },"23": {
+  },"26": {
     "doc": "Support",
     "title": "Support",
     "content": "Technical support for PrimoBurner is provided via GitHub. ",
     "url": "/support/",
     
     "relUrl": "/support/"
-  },"24": {
+  },"27": {
     "doc": "Support",
     "title": "Feature requests",
     "content": "Please create an issue on GitHub. ",
     "url": "/support/#feature-requests",
     
     "relUrl": "/support/#feature-requests"
-  },"25": {
+  },"28": {
     "doc": "Support",
     "title": "Report a bug",
     "content": "Please create an issue on GitHub. ",
     "url": "/support/#report-a-bug",
     
     "relUrl": "/support/#report-a-bug"
-  },"26": {
+  },"29": {
     "doc": "Support",
     "title": "Contact us",
     "content": "You can always send an email to PrimoBurner Support. ",
     "url": "/support/#contact-us",
     
     "relUrl": "/support/#contact-us"
-  },"27": {
+  },"30": {
     "doc": "Related Products",
     "title": "Related Products",
     "content": " ",
     "url": "/related-products/",
     
     "relUrl": "/related-products/"
-  },"28": {
+  },"31": {
     "doc": "Related Products",
     "title": "AVBlocks",
     "content": "AVBlocks is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
     "url": "/related-products/#avblocks",
     
     "relUrl": "/related-products/#avblocks"
-  },"29": {
+  },"32": {
     "doc": "Related Products",
     "title": "DVDBuilder",
     "content": "DVDBuilder is a DVD authoring software development kit that uses XML for describing various DVD features like video titles, chapters, menus, subtitles and languages. ",
     "url": "/related-products/#dvdbuilder",
     
     "relUrl": "/related-products/#dvdbuilder"
-  },"30": {
+  },"33": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "PrimoBurner is a CD, DVD and Blu-ray burning software development kit (SDK). It is cross-platform, and offers a well-rounded and flexible API for fast and easy implementation of optical disc recording / archiving solutions. ",
     "url": "/",
     
     "relUrl": "/"
-  },"31": {
+  },"34": {
     "doc": "Introduction",
     "title": "Features",
-    "content": ". | Widely used and mature burning engine that has been around and evolving since 2003 | Trusted by established leaders in major industries and across the world . | Burns the Millenniata BD-R M-DISC and DVD-R M-DISC that last a 1000 years | Burns High capacity Blu-ray (BD-XL) media | Burns standard Blu-ray Disc (BD-R, BD-RE, BD-R DL, BD-RE DL) | Burns Double Layer DVD media (DVD+R DL and DVD-R DL) | Burns standard DVD media (DVD-R, DVD+R, DVD-RW, DVD+R, DVD-RAM) | Burns standard CD media (CD-R and CD-RW) . | Managed API for Microsoft .NET Framework 4+ . | Native C++ UNICODE/UTF-16 API | Native 64Bit / 32Bit API . | Runs on Mac OS X 10.10 (Yosemite), 10.9 (Mavericks), 10.8 (Mountain Lion) and 10.7 (Lion) | Runs on Windows (8.1, 8, 7, Server, Embedded) | Runs on Ubuntu Linux | . ",
+    "content": ". | Widely used and mature burning engine that has been around and evolving since 2003 | Trusted by established leaders in major industries and across the world | . Media . | Burns the Millenniata BD-R M-DISC and DVD-R M-DISC that last a 1000 years | Burns High capacity Blu-ray (BD-XL) media | Burns standard Blu-ray Disc (BD-R, BD-RE, BD-R DL, BD-RE DL) | Burns Double Layer DVD media (DVD+R DL and DVD-R DL) | Burns standard DVD media (DVD-R, DVD+R, DVD-RW, DVD+R, DVD-RAM) | Burns standard CD media (CD-R and CD-RW) | . API . | Managed API for Microsoft .NET Framework 4.8, .NET Core 6 | Native C++ UNICODE/UTF-16 API | Native 64Bit | Native ARM64 | . OS . | Runs on macOS (14.x, 13.x, 12.x) | Runs on Windows (11, 10, Server, Embedded) | Runs on Ubuntu Linux (22.04 LTS) | . ",
     "url": "/#features",
     
     "relUrl": "/#features"
-  },"32": {
+  },"35": {
     "doc": "Introduction",
     "title": "Solutions",
-    "content": ". | Archive data to Blu-ray, DVD and CD | Write multiple data sessions to Blu-ray, DVD and CD | Create bootable Blu-ray, DVD and CD . | Support the latest revisions of Universal Disc Format/UDF file system | Support ISO-9660 and Joliet legacy file systems . | Create Audio CD including pure CD-DA and CD-EXTRA formats | Create Video DVD from a VIDEO_TS directory | Create Video Blu-ray from BDAV or BDMV directory | . ",
+    "content": ". | Archive data to Blu-ray, DVD and CD | Write multiple data sessions to Blu-ray, DVD and CD | Create bootable Blu-ray, DVD and CD | Support the latest revisions of Universal Disc Format/UDF file system | Support ISO-9660 and Joliet legacy file systems | Create Audio CD including pure CD-DA and CD-EXTRA formats | Create Video DVD from a VIDEO_TS directory | Create Video Blu-ray from BDAV or BDMV directory | . ",
     "url": "/#solutions",
     
     "relUrl": "/#solutions"
