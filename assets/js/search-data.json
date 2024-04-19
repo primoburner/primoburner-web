@@ -232,14 +232,14 @@
   },"33": {
     "doc": "Introduction",
     "title": "Introduction",
-    "content": "PrimoBurner is a CD, DVD and Blu-ray burning software development kit (SDK). It is cross-platform, and offers a well-rounded and flexible API for fast and easy implementation of optical disc recording / archiving solutions. ",
+    "content": "PrimoBurner is a CD, DVD and Blu-ray Software Development Kit (SDK) for Windows, macOS, and Linux. It offers a well-rounded and flexible API for fast and easy implementation of optical disc recording and archiving solutions. ",
     "url": "/",
     
     "relUrl": "/"
   },"34": {
     "doc": "Introduction",
     "title": "Features",
-    "content": ". | Widely used and mature burning engine that has been around and evolving since 2003 | Trusted by established leaders in major industries and across the world | . Media . | Burns the Millenniata BD-R M-DISC and DVD-R M-DISC that last a 1000 years | Burns High capacity Blu-ray (BD-XL) media | Burns standard Blu-ray Disc (BD-R, BD-RE, BD-R DL, BD-RE DL) | Burns Double Layer DVD media (DVD+R DL and DVD-R DL) | Burns standard DVD media (DVD-R, DVD+R, DVD-RW, DVD+R, DVD-RAM) | Burns standard CD media (CD-R and CD-RW) | . API . | Managed API for Microsoft .NET Framework 4.8, .NET Core 6 | Native C++ UNICODE/UTF-16 API | Native 64Bit | Native ARM64 | . OS . | Runs on macOS (14.x, 13.x, 12.x) | Runs on Windows (11, 10, Server, Embedded) | Runs on Ubuntu Linux (22.04 LTS) | . ",
+    "content": ". | Widely used and mature burning engine that has been around and evolving since 2003 | Trusted by established leaders in major industries worldwide | . Media . | Burns the Millenniata BD-R M-DISC and DVD-R M-DISC that last a 1000 years | Burns High capacity Blu-ray (BD-XL) media | Burns standard Blu-ray Disc (BD-R, BD-RE, BD-R DL, BD-RE DL) | Burns Double Layer DVD media (DVD+R DL and DVD-R DL) | Burns standard DVD media (DVD-R, DVD+R, DVD-RW, DVD+R, DVD-RAM) | Burns standard CD media (CD-R and CD-RW) | . API . | Managed API for Microsoft .NET Framework 4.8, .NET Core 6 | Native C++ UNICODE/UTF-16 API | Native 64Bit | Native ARM64 | . OS . | Runs on macOS (14.x, 13.x, 12.x) | Runs on Windows (11, 10, Server, Embedded) | Runs on Ubuntu Linux (22.04 LTS) | . ",
     "url": "/#features",
     
     "relUrl": "/#features"
