@@ -85,14 +85,14 @@
   },"12": {
     "doc": "Download",
     "title": "C++ SDK",
-    "content": "macOS (Intel, x64 / Apple Silicon arm64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . Linux (Ubuntu, amd64 / aarch4 / arm64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . Windows (x64 / ARM64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . ",
+    "content": "macOS (Intel, x64 / Apple Silicon arm64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . Linux (Ubuntu, amd64 / aarch64 / arm64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . Windows (x64 / ARM64) . | PrimoBurner Core Library | PrimoBurner C++ SDK (CLI Samples) | . ",
     "url": "/download/#c-sdk",
     
     "relUrl": "/download/#c-sdk"
   },"13": {
     "doc": "Download",
     "title": ".NET SDK",
-    "content": "macOS (Intel, x64 / Apple Silicon arm64, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . Linux (Ubuntu, amd64 / aarch4 / arm64, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . Windows (x64 / arm64, .NET CLR 4, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . ",
+    "content": "macOS (Intel, x64 / Apple Silicon arm64, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . Linux (Ubuntu, amd64 / aarch64 / arm64, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . Windows (x64 / arm64, .NET CLR 4, .NET Core 6) . | PrimoBurner .NET Core Library | PrimoBurner .NET SDK (CLI Samples) | . ",
     "url": "/download/#net-sdk",
     
     "relUrl": "/download/#net-sdk"
