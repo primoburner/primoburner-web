@@ -133,117 +133,131 @@
     "relUrl": "/documentation/#docs"
   },"19": {
     "doc": "Documentation",
-    "title": "API Reference",
-    "content": " ",
-    "url": "/documentation/#api-reference",
-    
-    "relUrl": "/documentation/#api-reference"
-  },"20": {
-    "doc": "Documentation",
     "title": "C++",
     "content": "PrimoBurner Core (C++ / C) . ",
     "url": "/documentation/#c",
     
     "relUrl": "/documentation/#c"
-  },"21": {
+  },"20": {
     "doc": "Documentation",
     "title": ".NET",
-    "content": "PrimoBurner for .NET . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
+    "content": "PrimoBurner for .NET . ",
     "url": "/documentation/#net",
     
     "relUrl": "/documentation/#net"
+  },"21": {
+    "doc": "Documentation",
+    "title": "API Reference",
+    "content": " ",
+    "url": "/documentation/#api-reference",
+    
+    "relUrl": "/documentation/#api-reference"
   },"22": {
+    "doc": "Documentation",
+    "title": "C++",
+    "content": "PrimoBurner Core (C++ / C) . ",
+    "url": "/documentation/#c-1",
+    
+    "relUrl": "/documentation/#c-1"
+  },"23": {
+    "doc": "Documentation",
+    "title": ".NET",
+    "content": "PrimoBurner for .NET . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
+    "url": "/documentation/#net-1",
+    
+    "relUrl": "/documentation/#net-1"
+  },"24": {
     "doc": "Documentation",
     "title": "Samples",
     "content": " ",
     "url": "/documentation/#samples",
     
     "relUrl": "/documentation/#samples"
-  },"23": {
+  },"25": {
     "doc": "Documentation",
     "title": "C++",
     "content": "PrimoBurner C++ SDK (CLI Samples) . ",
-    "url": "/documentation/#c-1",
+    "url": "/documentation/#c-2",
     
-    "relUrl": "/documentation/#c-1"
-  },"24": {
+    "relUrl": "/documentation/#c-2"
+  },"26": {
     "doc": "Documentation",
     "title": ".NET",
     "content": "PrimoBurner .NET SDK (CLI Samples) . ",
-    "url": "/documentation/#net-1",
+    "url": "/documentation/#net-2",
     
-    "relUrl": "/documentation/#net-1"
-  },"25": {
+    "relUrl": "/documentation/#net-2"
+  },"27": {
     "doc": "Documentation",
     "title": "Documentation",
     "content": " ",
     "url": "/documentation/",
     
     "relUrl": "/documentation/"
-  },"26": {
+  },"28": {
     "doc": "Support",
     "title": "Support",
     "content": "Technical support for PrimoBurner is provided via GitHub. ",
     "url": "/support/",
     
     "relUrl": "/support/"
-  },"27": {
+  },"29": {
     "doc": "Support",
     "title": "Feature requests",
     "content": "Please create an issue on GitHub. ",
     "url": "/support/#feature-requests",
     
     "relUrl": "/support/#feature-requests"
-  },"28": {
+  },"30": {
     "doc": "Support",
     "title": "Report a bug",
     "content": "Please create an issue on GitHub. ",
     "url": "/support/#report-a-bug",
     
     "relUrl": "/support/#report-a-bug"
-  },"29": {
+  },"31": {
     "doc": "Support",
     "title": "Contact us",
     "content": "You can always send an email to PrimoBurner Support. ",
     "url": "/support/#contact-us",
     
     "relUrl": "/support/#contact-us"
-  },"30": {
+  },"32": {
     "doc": "Related Products",
     "title": "Related Products",
     "content": " ",
     "url": "/related-products/",
     
     "relUrl": "/related-products/"
-  },"31": {
+  },"33": {
     "doc": "Related Products",
     "title": "AVBlocks",
     "content": "AVBlocks is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
     "url": "/related-products/#avblocks",
     
     "relUrl": "/related-products/#avblocks"
-  },"32": {
+  },"34": {
     "doc": "Related Products",
     "title": "DVDBuilder",
     "content": "DVDBuilder is a DVD authoring software development kit that uses XML for describing various DVD features like video titles, chapters, menus, subtitles and languages. ",
     "url": "/related-products/#dvdbuilder",
     
     "relUrl": "/related-products/#dvdbuilder"
-  },"33": {
+  },"35": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "PrimoBurner is a CD, DVD and Blu-ray Software Development Kit (SDK) for Windows, macOS, and Linux. It offers a well-rounded and flexible API for fast and easy implementation of optical disc recording and archiving solutions. ",
     "url": "/",
     
     "relUrl": "/"
-  },"34": {
+  },"36": {
     "doc": "Introduction",
     "title": "Features",
     "content": ". | Widely used and mature burning engine that has been around and evolving since 2003 | Trusted by established leaders in major industries worldwide | . Media . | Burns the Millenniata BD-R M-DISC and DVD-R M-DISC that last a 1000 years | Burns High capacity Blu-ray (BD-XL) media | Burns standard Blu-ray Disc (BD-R, BD-RE, BD-R DL, BD-RE DL) | Burns Double Layer DVD media (DVD+R DL and DVD-R DL) | Burns standard DVD media (DVD-R, DVD+R, DVD-RW, DVD+R, DVD-RAM) | Burns standard CD media (CD-R and CD-RW) | . API . | Managed API for Microsoft .NET Framework 4.8, .NET Core 6 | Native C++ UNICODE/UTF-16 API | Native 64Bit | Native ARM64 | . OS . | Runs on macOS (14.x, 13.x, 12.x) | Runs on Windows (11, 10, Server, Embedded) | Runs on Ubuntu Linux (22.04 LTS) | . ",
     "url": "/#features",
     
     "relUrl": "/#features"
-  },"35": {
+  },"37": {
     "doc": "Introduction",
     "title": "Solutions",
     "content": ". | Archive data to Blu-ray, DVD and CD | Write multiple data sessions to Blu-ray, DVD and CD | Create bootable Blu-ray, DVD and CD | Support the latest revisions of Universal Disc Format/UDF file system | Support ISO-9660 and Joliet legacy file systems | Create Audio CD including pure CD-DA and CD-EXTRA formats | Create Video DVD from a VIDEO_TS directory | Create Video Blu-ray from BDAV or BDMV directory | . ",
